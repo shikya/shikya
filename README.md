@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Akka, Java and NodeJS
 - 🌱 I’m currently learning Compitative programming and web based visualization
-- 👯 I’m looking to collaborate on [http-path-proxy](https://github.com/shikya/http-path-proxy)
+- 👯 I’m looking to collaborate on [http-path-proxy](https://github.com/shikya/http-path-proxy) and [chat-parser](https://github.com/shikya/chat-parser)
 - 💬 Ask me about backend development
 
 #### links
